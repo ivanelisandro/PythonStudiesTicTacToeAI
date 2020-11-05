@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: 'def say_hello(name):'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10961#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10961#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 05 Nov 2020 22:44:21 UTC
+record: -1
