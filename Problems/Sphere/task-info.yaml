@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class Sphere:
+        # finish class Sphere here
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6683
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6683">JetBrains
+    Academy</a></html>
+  time: Mon, 26 Oct 2020 00:37:07 UTC
+record: -1

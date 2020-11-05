@@ -1,0 +1,5 @@
+date = input()
+split_date = date.split("-")
+print(split_date[0])
+print(split_date[1])
+print(split_date[2])
